@@ -1,0 +1,89 @@
+body {
+    background: #191f29;
+    text-align: center;
+    font-family: inter;
+}
+
+#input-section , #selection-section, #selection-section button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    font-family: inter;
+    font-size: 28px;
+    font-weight: bolder;
+}
+
+#input-section {
+    color: white;
+}
+
+
+#input-section {
+    display: flex;
+    flex-direction: column;
+    background: #6943FF;
+    width:530px;
+    height:285px;
+    margin: 50px auto 00px auto;
+    font-size: 28px;
+}
+
+#selection-section {
+    background: #1F2937;
+    width:530px;
+    height:444px;
+    margin: 0px auto 0px auto;
+}
+
+#selection-section button {
+    height:109px;
+    width:500px;
+}
+
+input {
+    text-align: center;
+    width: 130px;
+    padding-left: 15px;
+    height: 83px;
+    border: 2px solid #B295FF;
+    border-radius: 5px;
+    background-color: #6943FF;
+    color: white;
+    font-weight: bolder;
+    font-size: 40px;
+    
+}
+
+#convert-button {
+    width: 130px;
+    border: none;
+    height: 42px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #26354e;
+    cursor: pointer;
+}
+
+#selection-section {
+    background: #15191f;
+}
+
+
+#selection-section button {
+    background-color: #273549;
+    border: none;
+    border-radius: 2px;
+    color: #CCC1FF;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    cur
+}
+
+.description {
+    color: white;
+    font-size: 16px;
+    font-weight:normal;
+}
